@@ -1,0 +1,355 @@
+'{
+    "type": "ai",
+    "data": {
+        "content": "Hey everyone! Welcome to our livestream! '"Today, we're super excited to introduce you to Ponds' luxurious Hand Cream, "
+ 'a game-changer in the Beauty & Personal Care world. Trust me, your hands '
+ 'will thank you for this!\\n\\nThis hand cream is available in two gorgeous '
+ 'colors \\u2013 classic White and cute Pink \\u2013 and comes in two '
+ 'convenient sizes: 50ml and 100ml. Whether you need a small tube for your '
+ "handbag or a larger one for your nightstand, we've got you ""covered!\\n\\nWhat makes Ponds' Hand Cream so special? It's all about "
+ 'nourishment and hydration. This cream is specifically designed to keep your '
+ 'skin feeling silky smooth and deeply moisturized, no matter the weather. Say '
+ "goodbye to dryness and hello to soft, supple hands!\\n\\nBut don't just take "
+ 'my word for it \\u2013 check out what some of our happy customers have to '
+ 'say! One reviewer wrote, \\"This is the best hand cream I\'ve ever used! My '
+ 'hands have never felt so soft.\\" Another fan said, \\"I love the scent and '
+ 'how quickly it absorbs. It\'s a must-have in my daily routine.\\"\\n\\nAnd '
+ 'guess what? Normally, this little miracle worker is priced at $15.99, but '
+ "today, you can grab it for just $12.99! That's right \\u2013 a fantastic "
+ 'deal for a fantastic product. Perfect for treating yourself or as a gift for '
+ "someone special.\\n\\nDon't wait \\u2013 quantities are limited! We've got ""only 50 in stock, so make sure you snag yours before they're all gone. Click ""on the link below to add Ponds' Hand Cream to your cart now and experience "
+ 'the ultimate in hand care. Your hands deserve the best, and Ponds '
+ 'delivers!\\n\\nReady, set, go grab yours now!", "additional_kwargs": {}, '
+ '"response_metadata": {
+            "token_usage": {
+                "completion_tokens": 345, '
+ '"prompt_tokens": 1123,
+                "total_tokens": 1468
+            },
+            "model_name": '
+ '"gpt-4o-2024-05-13",
+            "system_fingerprint": "fp_abc28019ad", '
+ '"prompt_filter_results": [
+                {
+                    "prompt_index": 0,
+                    "content_filter_results": '
+ '{
+                        "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                        },
+                        "self_harm": {
+                            "filtered": '
+ 'false,
+                            "severity": "safe"
+                        },
+                        "sexual": {
+                            "filtered": false,
+                            "severity": '
+ '"safe"
+                        },
+                        "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                        }
+                    }
+                }
+            ], '
+ '"finish_reason": "stop",
+            "logprobs": null,
+            "content_filter_results": '
+ '{
+                "hate": {
+                    "filtered": false,
+                    "severity": "safe"
+                },
+                "self_harm": {
+                    "filtered": '
+ 'false,
+                    "severity": "safe"
+                },
+                "sexual": {
+                    "filtered": false,
+                    "severity": '
+ '"safe"
+                },
+                "violence": {
+                    "filtered": false,
+                    "severity": "safe"
+                }
+            }
+        },
+        "type": '
+ '"ai",
+        "name": null,
+        "id": "run-ce785d0a-0838-43b4-869d-8afdcfa2fbd9-0", '
+ '"example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [], '
+ '"usage_metadata": {
+            "input_tokens": 1123,
+            "output_tokens": 345, '
+ '"total_tokens": 1468
+        }
+    }
+}')
+('{
+    "type": "human",
+    "data": {
+        "content": "\\n                Okay , I am '"changing my brand name to 'Ponds' and description is A body creame that "
+ 'takes care of you\\n            ", "additional_kwargs": {}, '
+ '"response_metadata": {},
+        "type": "human",
+        "name": null,
+        "id": null, '
+ '"example": false
+    }
+}')
+('{
+    "type": "ai",
+    "data": {
+        "content": "Hey everyone! Welcome to our livestream! '"Today, we're super excited to introduce you to SkinSoft's luxurious Hand "
+ 'Cream, a game-changer in the Beauty & Personal Care world. Trust me, your '
+ 'hands will thank you for this!\\n\\nThis hand cream is available in two '
+ 'gorgeous colors \\u2013 classic White and cute Pink \\u2013 and comes in two '
+ 'convenient sizes: 50ml and 100ml. Whether you need a small tube for your '
+ "handbag or a larger one for your nightstand, we've got you ""covered!\\n\\nWhat makes SkinSoft's Hand Cream so special? It's all about "
+ 'nourishment and hydration. This cream is specifically designed to keep your '
+ 'skin feeling silky smooth and deeply moisturized, no matter the weather. Say '
+ "goodbye to dryness and hello to soft, supple hands!\\n\\nBut don't just take "
+ 'my word for it \\u2013 check out what some of our happy customers have to '
+ 'say! One reviewer wrote, \\"This is the best hand cream I\'ve ever used! My '
+ 'hands have never felt so soft.\\" Another fan said, \\"I love the scent and '
+ 'how quickly it absorbs. It\'s a must-have in my daily routine.\\"\\n\\nAnd '
+ 'guess what? Normally, this little miracle worker is priced at $15.99, but '
+ "today, you can grab it for just $12.99! That's right \\u2013 a fantastic "
+ 'deal for a fantastic product. Perfect for treating yourself or as a gift for '
+ "someone special.\\n\\nDon't wait \\u2013 quantities are limited! We've got ""only 50 in stock, so make sure you snag yours before they're all gone. Click ""on the link below to add SkinSoft's Hand Cream to your cart now and "
+ 'experience the ultimate in hand care. Your hands deserve the best, and '
+ 'SkinSoft delivers!\\n\\nReady, set, go grab yours now!", '
+ '"additional_kwargs": {},
+        "response_metadata": {
+            "token_usage": '
+ '{
+                "completion_tokens": 345,
+                "prompt_tokens": 741,
+                "total_tokens": 1086
+            }, '
+ '"model_name": "gpt-4o-2024-05-13",
+            "system_fingerprint": "fp_abc28019ad", '
+ '"prompt_filter_results": [
+                {
+                    "prompt_index": 0,
+                    "content_filter_results": '
+ '{
+                        "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                        },
+                        "self_harm": {
+                            "filtered": '
+ 'false,
+                            "severity": "safe"
+                        },
+                        "sexual": {
+                            "filtered": false,
+                            "severity": '
+ '"safe"
+                        },
+                        "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                        }
+                    }
+                }
+            ], '
+ '"finish_reason": "stop",
+            "logprobs": null,
+            "content_filter_results": '
+ '{
+                "hate": {
+                    "filtered": false,
+                    "severity": "safe"
+                },
+                "self_harm": {
+                    "filtered": '
+ 'false,
+                    "severity": "safe"
+                },
+                "sexual": {
+                    "filtered": false,
+                    "severity": '
+ '"safe"
+                },
+                "violence": {
+                    "filtered": false,
+                    "severity": "safe"
+                }
+            }
+        },
+        "type": '
+ '"ai",
+        "name": null,
+        "id": "run-f7ae73c3-7ae2-4d48-87d8-9b5fdbf124a3-0", '
+ '"example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [], '
+ '"usage_metadata": {
+            "input_tokens": 741,
+            "output_tokens": 345, '
+ '"total_tokens": 1086
+        }
+    }
+}')
+('{
+    "type": "human",
+    "data": {
+        "content": "\\n                Can you also '
+ 'include some reviews of the product in the script?\\n            ", '
+ '"additional_kwargs": {},
+        "response_metadata": {},
+        "type": "human",
+        "name": '
+ 'null,
+        "id": null,
+        "example": false
+    }
+}')
+('{
+    "type": "ai",
+    "data": {
+        "content": "Hey everyone! Welcome to our livestream! '"Today, we're super excited to introduce you to SkinSoft's luxurious Hand "
+ 'Cream, a game-changer in the Beauty & Personal Care world. Trust me, your '
+ 'hands will thank you for this!\\n\\nThis hand cream is available in two '
+ 'gorgeous colors \\u2013 classic White and cute Pink \\u2013 and comes in two '
+ 'convenient sizes: 50ml and 100ml. Whether you need a small tube for your '
+ "handbag or a larger one for your nightstand, we've got you ""covered!\\n\\nWhat makes SkinSoft's Hand Cream so special? It's all about "
+ 'nourishment and hydration. This cream is specifically designed to keep your '
+ 'skin feeling silky smooth and deeply moisturized, no matter the weather. Say '
+ 'goodbye to dryness and hello to soft, supple hands!\\n\\nAnd guess what? '
+ 'Normally, this little miracle worker is priced at $15.99, but today, you can '
+ "grab it for just $12.99! That's right \\u2013 a fantastic deal for a "
+ 'fantastic product. Perfect for treating yourself or as a gift for someone '
+ "special.\\n\\nDon't wait \\u2013 quantities are limited! We've got only 50 ""in stock, so make sure you snag yours before they're all gone. Click on the ""link below to add SkinSoft's Hand Cream to your cart now and experience the "
+ 'ultimate in hand care. Your hands deserve the best, and SkinSoft '
+ 'delivers!\\n\\nReady, set, go grab yours now!", "additional_kwargs": {}, '
+ '"response_metadata": {
+            "token_usage": {
+                "completion_tokens": 277, '
+ '"prompt_tokens": 440,
+                "total_tokens": 717
+            },
+            "model_name": '
+ '"gpt-4o-2024-05-13",
+            "system_fingerprint": "fp_abc28019ad", '
+ '"prompt_filter_results": [
+                {
+                    "prompt_index": 0,
+                    "content_filter_results": '
+ '{
+                        "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                        },
+                        "self_harm": {
+                            "filtered": '
+ 'false,
+                            "severity": "safe"
+                        },
+                        "sexual": {
+                            "filtered": false,
+                            "severity": '
+ '"safe"
+                        },
+                        "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                        }
+                    }
+                }
+            ], '
+ '"finish_reason": "stop",
+            "logprobs": null,
+            "content_filter_results": '
+ '{
+                "hate": {
+                    "filtered": false,
+                    "severity": "safe"
+                },
+                "self_harm": {
+                    "filtered": '
+ 'false,
+                    "severity": "safe"
+                },
+                "sexual": {
+                    "filtered": false,
+                    "severity": '
+ '"safe"
+                },
+                "violence": {
+                    "filtered": false,
+                    "severity": "safe"
+                }
+            }
+        },
+        "type": '
+ '"ai",
+        "name": null,
+        "id": "run-419c4e85-9a87-40c5-aec1-305497cdab7c-0", '
+ '"example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [], '
+ '"usage_metadata": {
+            "input_tokens": 440,
+            "output_tokens": 277, '
+ '"total_tokens": 717
+        }
+    }
+}')
+('{
+    "type": "human",
+    "data": {
+        "content": "\\n            You are a sales '
+ 'expert. Based on the product data and the parameters provided, draft a '
+ 'product script to be used by a livestream host to sell the '
+ 'product.\\n\\n            Product Data:\\n            - Name: Hand '
+ 'Cream\\n            - Category: Beauty & Personal Care\\n            - '
+ 'Brand: SkinSoft\\n            - SKU Code: SS-HC-12345\\n            - '
+ 'Quantity: 50\\n            - Price (RRP): $15.99\\n            - Offer '
+ 'Price: $12.99\\n            - Description: A luxurious hand cream that '
+ 'nourishes and hydrates your skin.\\n            - Colors: White, '
+ 'Pink\\n            - Sizes: 50ml,
+        100ml\\n            - Images: image1.jpg, '
+ 'image2.jpg\\n\\n            Script Parameters:\\n            - Tone: '
+ 'Casual\\n            - Length: Medium\\n            - Focus: '
+ 'Benefits\\n            - Format: Paragraph\\n            - Call-to-Action: '
+ 'Moderate\\n\\n            User Instructions:\\n            Script must be '
+ 'more enthusiastic and energetic, my target audience is young '
+ 'generation.\\n\\n            System Messages:\\n            Your answer must '
+ 'not include any speculation or inference about the background of the '
+ "document or the user's gender, ancestry, roles, positions, etc.\\nDo not "
+ 'assume or change dates and times.\\nYou must always perform searches on '
+ '[insert relevant documents that your feature can search on
+        ] when the user is '
+ 'seeking information (explicitly or implicitly), regardless of internal '
+ 'knowledge or information.\\nEnsure the generated script is accurate and '
+ 'truthful.\\nDo not include any information not provided in the product '
+ 'data.\\nAvoid making unverifiable or speculative claims.\\nFocus on '
+ 'highlighting the benefits and features based on the data provided.\\nTailor '
+ 'the script to the parameters provided by the user (tone, length, focus, '
+ 'format, CTA).\\nUse the product data as the foundation for the '
+ 'script.\\nHighlight key features and benefits as specified in the focus '
+ 'parameter.\\nEnsure the tone and language match the selected tone '
+ 'setting.\\nStructure the script according to the chosen format.\\nInclude a '
+ 'call-to-action that matches the selected CTA strength.\\n\\n            '
+ 'Please generate the script below. Ensure that the output contains only the '
+ 'script itself, without any additional commentary or '
+ 'explanations.\\n\\n            Script:\\n            ", "additional_kwargs": '
+ '{},
+        "response_metadata": {},
+        "type": "human",
+        "name": null,
+        "id": null, '
+ '"example": false
+    }
+}'
